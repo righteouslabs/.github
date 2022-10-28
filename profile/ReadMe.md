@@ -1,8 +1,8 @@
-![Open Source at righteouslabs](https://github.com/righteouslabs/.github/blob/main/images/AI-latent-space.jpg)
+<img src="https://github.com/righteouslabs/.github/blob/main/images/AI-latent-space.jpg" height=42 />
 
 ## Get Involved
 
-Email info@righteous.ai to get involved!
+Email connect@righteous.ai to get involved!
 
 We are always interested in ideas, enhancements, and constructive feedback!
 
