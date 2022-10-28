@@ -1,4 +1,4 @@
-<img src="https://github.com/righteouslabs/.github/blob/main/images/AI-latent-space.jpg" height=42 />
+<img src="https://github.com/righteouslabs/.github/blob/main/images/AI-latent-space.jpg" height="321" />
 
 ## Get Involved
 
